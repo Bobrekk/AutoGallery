@@ -1,0 +1,10 @@
+C:\Users\bkork\source\repos\Oto Galeri\Oto Galeri\bin\Debug\Oto Galeri.exe.config
+C:\Users\bkork\source\repos\Oto Galeri\Oto Galeri\bin\Debug\Oto Galeri.exe
+C:\Users\bkork\source\repos\Oto Galeri\Oto Galeri\bin\Debug\Oto Galeri.pdb
+C:\Users\bkork\source\repos\Oto Galeri\Oto Galeri\obj\Debug\Oto Galeri.csprojAssemblyReference.cache
+C:\Users\bkork\source\repos\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.Form1.resources
+C:\Users\bkork\source\repos\Oto Galeri\Oto Galeri\obj\Debug\Oto_Galeri.Properties.Resources.resources
+C:\Users\bkork\source\repos\Oto Galeri\Oto Galeri\obj\Debug\Oto Galeri.csproj.GenerateResource.cache
+C:\Users\bkork\source\repos\Oto Galeri\Oto Galeri\obj\Debug\Oto Galeri.csproj.CoreCompileInputs.cache
+C:\Users\bkork\source\repos\Oto Galeri\Oto Galeri\obj\Debug\Oto Galeri.exe
+C:\Users\bkork\source\repos\Oto Galeri\Oto Galeri\obj\Debug\Oto Galeri.pdb
